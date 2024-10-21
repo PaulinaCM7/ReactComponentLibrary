@@ -1,0 +1,22 @@
+{
+  "name": "Scrim-s05q8ma5ek",
+  "description": "https://v2.scrimba.com/s05q8ma5ek/",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@codemirror/lang-javascript": "6.2.2",
+    "@uiw/react-codemirror": "4.23.5",
+    "nanoid": "^5.0.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "4.4.0",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*"
+  }
+}

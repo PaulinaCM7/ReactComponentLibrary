@@ -76,6 +76,13 @@ h3 {
     background-color: #f4f4f4;
 }
 
+
+@media (max-width: 950px) {
+    .header--navbar > h1 {
+        display: none;
+    }
+}
+
 .header--item {
     display: block;
     color: #1F2937;
